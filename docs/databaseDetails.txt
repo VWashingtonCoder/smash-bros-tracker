@@ -1,0 +1,14 @@
+Database: SmashBros
+Schema {
+  Id: number,
+  CharacterName: string,
+  CharacterPic: , 
+  Series: string,
+  SeriesLogo: ,
+  FirstApperance: string,
+  YearReleased: number,
+  Bio: string,
+  Favorite:
+  Wins: num,
+  Loses: num
+}
